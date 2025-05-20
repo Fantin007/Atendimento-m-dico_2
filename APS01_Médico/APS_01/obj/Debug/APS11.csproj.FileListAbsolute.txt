@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\APS1\APS11\APS11\obj\Debug\APS11.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\APS1\APS11\APS11\obj\Debug\APS11.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\APS1\APS11\APS11\bin\Debug\APS11.exe.config
+C:\Users\Aluno\source\APS1\APS11\APS11\bin\Debug\APS11.exe
+C:\Users\Aluno\source\APS1\APS11\APS11\bin\Debug\APS11.pdb
+C:\Users\Aluno\source\APS1\APS11\APS11\obj\Debug\APS11.exe
+C:\Users\Aluno\source\APS1\APS11\APS11\obj\Debug\APS11.pdb
